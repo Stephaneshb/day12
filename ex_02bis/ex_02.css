@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+input[type="file"] {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#data-display {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+}

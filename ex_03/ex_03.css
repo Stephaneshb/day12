@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.planet {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+li.planet h2 {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+li.planet p {
+    margin: 5px 0;
+}
